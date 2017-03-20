@@ -20,5 +20,5 @@ function removeDuplicateChar(str){
 
 //output will be
 // removeDuplicateChar('Learn more javascript dude');
-  = "Lnmojvsciptu"
+ // = "Lnmojvsciptu"
         
